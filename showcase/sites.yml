@@ -1,3 +1,15 @@
+- title: Kerim Ayhan
+  url: https://kerim.ist
+  description: This is my personal blog and CV web site.
+  categories:
+    - Personal CV Site
+  frontend:
+    - Gatsby
+    - Bootstrap
+    - Formik
+    - 
+  made_by: Kerim Ayhan
+  made_by_url: https://kerim.ist
 - title: Blue Flamingos
   url: https://blueflamingos.nl
   description: Corporate website that fits our brand. Fully search engine optimized, conversion aimed and dynamically built thanks to Strapi.
